@@ -1,1 +1,3 @@
-# go_by_example
+# Golang Exercises
+
+Golang exercises from the Go by example website.
